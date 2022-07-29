@@ -1,0 +1,11 @@
+aplikacja angular+springboot ktora pozwala na importowanie danych z json plika i przesyla do bazy danych i wyswetlana danych na ekran.
+backend - springboot.
+fronend - angular.
+
+uruchomic service mySql80.
+w folderze plik users4sys, tzreba go zaimportowac do MySql Workbench.
+uruchomic aplikacje backend (intellij) frontend-angular.
+uruchomic aplikacje fronend (visual studio code) backend-springboot.
+
+http://localhost:4200/
+
